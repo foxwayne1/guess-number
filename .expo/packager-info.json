@@ -4,5 +4,7 @@
   "packagerPort": 19000,
   "expoServerNgrokUrl": "https://w8-kew.anonymous.guess-number.exp.direct",
   "packagerNgrokUrl": "https://w8-kew.anonymous.guess-number.exp.direct",
-  "ngrokPid": 10584
+  "ngrokPid": 12424,
+  "packagerPid": null,
+  "webpackServerPort": null
 }
